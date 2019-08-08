@@ -1,24 +1,26 @@
 {
-    "name":"",
-    "cvTitle":"",
-    "cvDescription":"",
+    "name":"María Fernanda Goracy",
+    "cvTitle":"Lic. en Comunicación. Front-end Developer",
+    "cvDescription":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex distinctio nemo cumque quam optio errorLorem ipsum dolor sit amet",
     "social":[
-        {"name":"", "link":""}
+        {"name":"Facebook", "link":"https://www.facebook.com/mariafernanda.goracy"},
+        {"name":"Instagram", "link":"https://www.instagram.com/eljardindedemeter/"},
+        {"name":"LinkedIn", "link":"https://www.linkedin.com/"}
     ],
     "education":[
-        {"title":"", "institution":"", "endYear":"", "description":""},
-        {"title":"", "institution":"", "endYear":"", "description":""}
+        {"title":"Web development", "institution":"ADA", "endYear":"2019", "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex distinctio nemo cumque quam optio error, officia odit, at pariatur, asperiores et? Hic ad non voluptate nihil architecto doloremque minima libero, maxime dolores molestias alias distinctio quisquam beatae, numquam natus quidem quos consectetur, voluptas suscipit porro."},
+        {"title":"Lic. en Comunicación Social", "institution":"UNLaM", "endYear":"2016", "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex distinctio nemo cumque quam optio error, officia odit, at pariatur, asperiores et? Hic ad non voluptate nihil architecto doloremque minima libero, maxime dolores molestias alias distinctio quisquam beatae, numquam natus quidem quos consectetur, voluptas suscipit porro."}
     ],
     "skills":[
-        {"title":"", "level":""},
-        {"title":"", "level":""}
+        {"title":"Css", "level":"advanced"},
+        {"title":"Javascript", "level":"Working on it"}
     ],
     "blog":[
-        {"title":"", "sutitle":"", "excerpt":"", "text":"", "images":""},
-        {"title":"", "sutitle":"", "excerpt":"", "text":"", "images":""}
+        {"title":"algún blog", "sutitle":"Lorem ipsum dolor sit amet", "excerpt":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex distinctio nemo cumque quam optio error", "text":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex distinctio nemo cumque quam optio error, officia odit, at pariatur, asperiores et? Hic ad non voluptate nihil architecto doloremque minima libero, maxime dolores molestias alias distinctio quisquam beatae, numquam natus quidem quos consectetur, voluptas suscipit porro.", "images":"https://www.petguide.com/blog/dog/top-10-cutest-dog-breeds/attachment/cutest-dog-breeds-main/"},
+        {"title":"otro blog", "sutitle":"Lorem ipsum dolor sit amet", "excerpt":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex distinctio nemo cumque quam optio error", "text":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex distinctio nemo cumque quam optio error, officia odit, at pariatur, asperiores et? Hic ad non voluptate nihil architecto doloremque minima libero, maxime dolores molestias alias distinctio quisquam beatae, numquam natus quidem quos consectetur, voluptas suscipit porro.", "images":"https://www.petguide.com/blog/dog/top-10-cutest-dog-breeds/attachment/cutest-dog-breeds-main/"}
     ],
     "contact":{
-        "phone":"",
-        "email":""
+        "phone":"1168742536",
+        "email":"mfernandagoracy@gmail..com"
     }
 }
